@@ -1,0 +1,23 @@
+{
+  "name": "by.sinti.polygonmilitary.urp",
+  "version": "1.0.2",
+  "displayName": "Sinti POLYGON Military URP",
+  "description": "OVER 1500 Detailed prefabs are included with this pack.",
+  "unity": "2021.1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "3d",
+    "low poly"
+  ],
+  "author": {
+    "name": "jobpatchh",
+    "email": "user@noreply.com",
+    "url": "https://github.com/jobpatchh"
+  },
+  "type": "3d",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "11.0.0"
+  }
+}
